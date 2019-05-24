@@ -1,0 +1,59 @@
+RPI
+RPI=reporte de primera impresion pagina inempopayan.edu.co
+
+s3 debe crear una fucnion global el cual actualiza automaticamente todo e sistema cada tiempo por lo cual esta funcion debe quedar en segundo plano en la paguina principal con el fin  del qiue el cliente no tenga que hacer cambios a cada ratos sino que de haga automaticamenyte deacuerdo a la fecha estipulada
+
+
+el sistema de busquedas toma una base algo obsoleta por el cual se tiene que preguntar y saber que se esta buscando
+
+
+index = la funcion del index tiene como resulta funciones complejas y en muchos casos obsoletas para los usuarios mas no para los clientes
+	
+	la funcion de un sugundo menu hace confuso el sistema ademas de ser resolver la pregunta de que o para que esta el sugundo menu 
+
+	funcion de calendario universal conectado al index principal 
+
+	la funcion principal es para difundir una noticia basica con el fin de quien este conectado en la pagina este informado adecuada y opertuamente
+
+	funciones de iconos deben cambiar y ser mas suaves con el fin de que la paguina este lo mas sencilla y entendible 
+
+
+P.E.I Instituto = no tiene una distribucion de informacion adecuada con el fin de informar al usuario
+	el sistema no tiene un enlace cpnmutativo ni tampoco un sistema de frenado por si no se escoje una funcion adecuada
+
+	los manuales y proyectos del instituto esta adecuadamente conectados al sistema sin fallos
+
+
+consejo-de-padres = la funcion del menu es un problema global, por lo tanto es uno de los primeros en resolver a la hora de integrar un menu
+	
+	Cursos = los sub-menus que estan integrados conforman un sistama bastante basico en el cual es informar al padre de familia, acudiente etc con el fin de brindarle cursos por lo tanto esta funcion es solo de tipo informativo
+
+	Consejo padres = la opcion de padres de familia debe ser pulida dado que toda la informacion se encuentra en un pdf en el cual da toda la informacion, ademas de que en el resto de la paguina solo hay dos iconos los cuales simbolisan la pertenencia de la asociacion. en otras palabras la informacion es escasa y en ocaciones ambigua
+
+asoc-exalumnos = la funcione o paguina dedicada a exalumnos esta bastante simple por lo cual no tine nada de que aportar
+	
+	Este punto es de caracter informativo por lo cual solo se nececita mostrar ficheros o una breve descripcion 
+
+	se necesita contruir un menu externo ademas de clasificar el menu de prueba que esta en vacio
+
+correo = esta funcion solo esta edisponible si la persona o el encargado en este caso la institucion te da un correo electronico por lo cual los derechos y manejo de este sistema depende del presatador de servicion por lo cual google es el unico que tiene derecho a merojar o eliminar el sistema
+
+	todas las fuc¡nciones que establece esta ventana pertenece a google como prestador de sercicio
+
+aula-virtual = el scrold de aula tiene enfatizados los blog y material para los grados 6 a 11 con el fin brinlarle al usuario informacion
+	en los blog, estos tiene un diseño demaciado desagradable ademas de ser clasico y un simples enlace, corregir y darle esterica ademas de un poco de informacion al usuario que maneja el blog con el fin de conocer un corriculum basico del docente
+
+	En el material de grados, de debe trabajar una portada y estica del material ademas de dar una pequeña descripcion del libro, pdf o material que se desea compartir a los distintos grupos pertenecientes a cada grado
+
+Gestiones  = en gestiones hay varios temas tales como academica, directiva, administrativa y comunitaria... en el scrol se encuentra un error basico en el cual se trata de una ventana automatica que nos lleva a un punto inicial sin pedir en espesifico que deseamos buscar 
+	
+	en el error se debe corregir el problema de determinacion en el cual da como resultado la mision y vision y reordena la informacion con en fin de que corregir el y cambier la informacion ambigua y sea concreta
+
+	directiva tema de mision y vision
+
+	Administrativo / conbocatoria en la ventana de la admiistracion solo se comparte informacion, por lo cual se debe clasificar un previo con el fin de dar informacion concreta ademas de dar un lanzamiento de convocatoria colocar un limite de determinacion con el fin que que la convovcatoria se cierre manual automaticamente de acruerdo a una fecha
+
+	academica / calendario en esta funcion hay un sub arbol el cual de como calendario de acuerdo a la ley estipulada por el gobierno, llevar una bitacora o cronograma en el cual se de estipulado que eventos se llevaran en el año, esto de debe buscar y adecuar ademas de preguntar que mas requerimientos se desea implementar
+
+	comunitaria en esta ventana se encuentra informacion de la institucion a nivel dedagojico, proyecto de la institucion y manuel de convivencia que se encuentra en vinculados en P.E.I organizar y deplegar las funciones adecuadamente
+
